@@ -1,2 +1,2 @@
-# BlazarBits
-erc-20 Token
+# BlazarForce
+Contracts for Blazar Force Devolpment
